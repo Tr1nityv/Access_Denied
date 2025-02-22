@@ -22,10 +22,3 @@ Libraries used in this project
    ```bash
     npx expo start
    ```
-
-
-
-This repository is part of a tutorial on my [YouTube channel](https://www.youtube.com/@itzpradip). Check out the complete tutorial on YouTube by clicking below. 👇
-
-[![Finance App UI in React Native with Expo Router Tutorial for Beginners](https://img.youtube.com/vi/MLVxvof54KA/0.jpg)](https://youtu.be/MLVxvof54KA)
-
